@@ -100,9 +100,9 @@ model3.add(Dense(1, activation='sigmoid'))
   The metrics is [here](https://github.com/jyoti-jha/openai-training/blob/main/Deep-Learning/Readme.md)
 
 
-##  Use a LLM of your choice to perform search on private data or literature related to the dataset you have picked: [30 marks] – GPT embedding model
+###  Use a LLM of your choice to perform search on private data or literature related to the dataset you have picked: [30 marks] – GPT embedding model
 
-- The notebook can be found here
+- The notebook can be found [here](https://github.com/jyoti-jha/openai-training/blob/main/Langchain_RAG.ipynb)
 
 
 
