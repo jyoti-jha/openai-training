@@ -100,9 +100,13 @@ model3.add(Dense(1, activation='sigmoid'))
   The metrics is [here](https://github.com/jyoti-jha/openai-training/blob/main/Deep-Learning/Readme.md)
 
 
-###  Use a LLM of your choice to perform search on private data or literature related to the dataset you have picked: [30 marks] – GPT embedding model
+###  Use a LLM of your choice to perform search on private data or literature related to the dataset you have picked: [30 marks]
 
 - The notebook can be found [here](https://github.com/jyoti-jha/openai-training/blob/main/Langchain_RAG.ipynb)
+
+###  Use Generative AI to generate test cases and comments for your notebook [10 marks] 
+
+- The notebook can be found [here](https://github.com/jyoti-jha/openai-training/blob/main/commentTestCases_Generation/code_generation.ipynb)
 
 
 
