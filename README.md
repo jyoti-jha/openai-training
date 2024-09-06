@@ -55,7 +55,7 @@ The best model was LightGBM with the following metrics:
 | Recall score weighted | 0.79269 |
 | Weighted accuracy | 0.84788 |
 
-The hyperparameter is as follows:
+The hyperparameter is [here](https://github.com/jyoti-jha/openai-training/blob/main/Automated_ML/Hyperparameter.json)
 
 
 
