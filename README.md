@@ -91,5 +91,9 @@ model3.add(Dense(1, activation='sigmoid'))
 
 - The models were designed to predict the likelihood of customer churn, with the output layer using a sigmoid activation function suitable for binary classification.
 
+### Metrics selection for evaluation [10 marks]
+ - ##### AutomatedML
+
+
 
 
