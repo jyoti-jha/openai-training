@@ -97,7 +97,12 @@ model3.add(Dense(1, activation='sigmoid'))
    and for the graph is [here](https://github.com/jyoti-jha/openai-training/blob/main/Automated_ML/Graph.md)
 
 - ##### Deep-Learning
-  The metr
+  The metrics is [here](https://github.com/jyoti-jha/openai-training/blob/main/Deep-Learning/Readme.md)
+
+
+##  Use a LLM of your choice to perform search on private data or literature related to the dataset you have picked: [30 marks] – GPT embedding model
+
+- The notebook can be found here
 
 
 
