@@ -93,6 +93,7 @@ model3.add(Dense(1, activation='sigmoid'))
 
 ### Metrics selection for evaluation [10 marks]
  - ##### AutomatedML
+   The metrics is [here](https://github.com/jyoti-jha/openai-training/blob/main/Automated_ML/Test_metrics.md)
 
 
 
