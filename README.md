@@ -55,6 +55,10 @@ The best model was LightGBM with the following metrics:
 | Recall score weighted | 0.79269 |
 | Weighted accuracy | 0.84788 |
 
+The hyperparameter is as follows:
+
+
+
 
 ## Notebook (Python) - Deep Learning [30 marks]
 
@@ -74,7 +78,7 @@ model.add(Dense(1, activation='sigmoid'))
 ```
 
 ### Architecture 2:
-```
+```python
 from keras.models import Sequential
 from keras.layers import Dense, Dropout
 
